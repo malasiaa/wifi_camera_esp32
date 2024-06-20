@@ -62,3 +62,6 @@ Waits until a connection is established and then prints the IP address to the Se
 
 
 ## Setup Instructions
+
+Specify the SSID and password, in the main.cpp file.
+
