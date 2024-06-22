@@ -1,9 +1,10 @@
 # ESP32 Camera Web Server
 
 This project sets up an ESP32 board with a camera module to stream live video over Wi-Fi. It uses the AI Thinker Model of the ESP32 camera and provides a web interface to view the stream.
+The idea is to prove a concept of a security camera built with off the shelf components.
 
 <p align="center">
-  <img src="https://github.com/malasiaa/arduino_temp-moist_sensing/assets/144847430/dac9f37d-082f-4541-9053-d377375ca0bf" width="400" height="200">
+  <img src="https://github.com/malasiaa/wifi_camera_esp32/assets/144847430/fca3089c-fa5a-4092-a673-106e22523507" width="300" height="300">
 </p>
 
 #### Components required:
