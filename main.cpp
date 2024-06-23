@@ -12,8 +12,8 @@
 #include "driver/gpio.h"
 
 // Replace with your network credentials
-const char* ssid = "WiFi_5461";
-const char* password = "GEGAY3MHLQR";
+const char* ssid = "INSERT_WIFI_SSID";
+const char* password = "INSERT_WIFI_PASSWORD";
 
 #define PART_BOUNDARY "123456789000000000000987654321"
 
